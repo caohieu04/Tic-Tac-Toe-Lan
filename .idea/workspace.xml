@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b548d010-c36c-4edd-9d6f-4d3fae34de03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controller/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/controller/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controller/IController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/controller/IController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/image/Logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bin/image/Logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/image/o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/image/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/BoardState.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/BoardState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/ComputerPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/ComputerPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/TaskTimer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/TaskTimer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/model/TaskTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/model/TaskTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/View$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/View$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/view/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/bin/view/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/BoardState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/BoardState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/ComputerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/ComputerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/EvalBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/EvalBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/HumanPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/TaskTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/TaskTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/application.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eHJMdzjctzOHfdQZJwIeG6jolj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="game_caro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gameServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gameServer.gameServer" />
+      <module name="game_caro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gameServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.gameServer" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.gameServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b548d010-c36c-4edd-9d6f-4d3fae34de03" name="Default Changelist" comment="" />
+      <created>1593972537700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593972537700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="218" key="#Inspections" timestamp="1594194346373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="586" y="218" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1594194346373" />
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594095804447">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594095804447" />
+    <state x="707" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594095729246">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="707" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1594095729246" />
+    <state x="740" y="257" key="FileChooserDialogImpl" timestamp="1594194571347">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="257" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1594194571347" />
+    <state width="1876" height="301" key="GridCell.Tab.0.bottom" timestamp="1594111710995">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594111710995" />
+    <state width="1876" height="301" key="GridCell.Tab.0.center" timestamp="1594111710994">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="301" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594111710994" />
+    <state width="1876" height="301" key="GridCell.Tab.0.left" timestamp="1594111710994">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="301" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594111710994" />
+    <state width="1876" height="301" key="GridCell.Tab.0.right" timestamp="1594111710995">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="301" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594111710995" />
+    <state width="1876" height="364" key="GridCell.Tab.1.bottom" timestamp="1594021372803">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594021372803" />
+    <state width="1876" height="364" key="GridCell.Tab.1.center" timestamp="1594021372803">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594021372803" />
+    <state width="1876" height="364" key="GridCell.Tab.1.left" timestamp="1594021372803">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594021372803" />
+    <state width="1876" height="364" key="GridCell.Tab.1.right" timestamp="1594021372803">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594021372803" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1594193860050">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594193860050" />
+    <state x="239" y="324" width="762" height="592" key="find.popup" timestamp="1594193798867">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="239" y="324" width="762" height="592" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1594193798867" />
+    <state x="342" y="160" key="new project wizard" timestamp="1594194587616">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="160" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1594194587616" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1594099248698">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1594099248698" />
+  </component>
+</project>
